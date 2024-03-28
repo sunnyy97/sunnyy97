@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=3DFF92&theme=cobalt&height=350&section=header&text=Changki%20github&fontSize=90&animation=blink" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=3DFF92&theme=cobalt&height=350&section=header&text=SUN%20github&fontSize=90&animation=blink" />
 <div></div>
 
 <div>
