@@ -7,7 +7,7 @@
 <div>
 </p>
   <h5>StudyNote</h5>
-  <a href="https://[www.notion.so/d18f906a41764075b0d691b29c0888fd](https://www.notion.so/Seonhui-Lee-74e767db85de4588b17c347ee7ccce1c?pvs=4)">
+  <a href="https://www.notion.so/invite/8225f92d6c5d9094522fe786673db0b207c99623">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 
